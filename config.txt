@@ -1,7 +1,7 @@
-token=NTExOTc3NzM2NTg4MjMwNjc3.DsywDg.YW0UrRFzlXYR6JHkRKOcaHJmVqc
-owner=485579083649122304
-prefix=2
-game= BOND MUSIC.
+token=NTExOTc3NzM2NTg4MjMwNjc3.DtCdVA.xD3Ykv3NVS9raO0iH4vInKzpdnA
+owner=496988617676292096
+prefix=J
+game= Julia Music.
 stayinchannel=true
 songinstatus=false
 status=idle
